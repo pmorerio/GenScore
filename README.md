@@ -26,7 +26,7 @@ matplotlib==3.4.3
 joblib==1.0.1    
 
 ```
-conda create --prefix xxx --file ./requirements_conda.txt      
+conda create --name GenScore --file requirements_conda.txt  python=3.8
 pip install -r ./requirements_pip.txt
 ```
 ### Datasets
