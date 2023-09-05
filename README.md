@@ -8,26 +8,20 @@ GenScore is a generalized protein-ligand scoring framework extended from RTMScor
 
 
 ### Requirements
-mdanalysis==2.0.0    
-pandas==1.0.3    
-prody==2.1.0    
-python==3.8.11    
-pytorch==1.11.0    
-torch-geometric==2.0.3    
-torch-scatter==2.0.9     
-rdkit==2021.03.5    
-openbabel==3.1.0    
-scikit-learn==0.24.2    
-scipy==1.6.2    
-seaborn==0.11.2    
-numpy==1.20.3    
-pandas==1.3.2    
-matplotlib==3.4.3   
-joblib==1.0.1    
-
+   
 ```
-conda create --prefix xxx --file ./requirements_conda.txt      
-pip install -r ./requirements_pip.txt
+conda create -n genscore python=3.8.11 
+conda activate genscore
+conda install pytorch==1.11.0 torchvision==0.12.0 torchaudio==0.11.0 cudatoolkit=11.3 -c pytorch
+conda install pandas==1.0.3  
+conda install prody==2.1.0   -c conda-forge
+conda install rdkit==2021.03.5 -c conda-forge
+conda install openbabel==3.1.0 -c conda-forge
+conda install numpy==1.23.4 # downgrade for pandas compatibility; numpy==1.20.3  looks incompatible
+conda install mdanalysis==2.0.0 -c conda-forge
+pip install torch-geometric==2.0.3
+pip install torch-scatter==2.0.9
+pip install torch-sparse==0.6.15
 ```
 ### Datasets
 [PDBbind](http://www.pdbbind.org.cn)       
