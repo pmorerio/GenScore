@@ -1,0 +1,186 @@
+sample_count: 1, /data01/pmorerio/ALLPDBs/00001_10GS/
+Processing : /data01/pmorerio/ALLPDBs/00001_10GS/pocket.pdb /data01/pmorerio/PDBbind_plants/00001_10GS/plants_poses.mol2
+Processing : /data01/pmorerio/ALLPDBs/00001_10GS/pocket.pdb /data01/pmorerio/PDBbind_plants/00001_10GS/plants_poses.sdf
+failed to scoring for Data(x=[219, 41], edge_index=[2, 7022], edge_attr=[7022, 5], pos=[219, 24, 3]) and None
+failed to scoring for Data(x=[219, 41], edge_index=[2, 7022], edge_attr=[7022, 5], pos=[219, 24, 3]) and None
+failed to scoring for Data(x=[219, 41], edge_index=[2, 7022], edge_attr=[7022, 5], pos=[219, 24, 3]) and None
+failed to scoring for Data(x=[219, 41], edge_index=[2, 7022], edge_attr=[7022, 5], pos=[219, 24, 3]) and None
+failed to scoring for Data(x=[219, 41], edge_index=[2, 7022], edge_attr=[7022, 5], pos=[219, 24, 3]) and None
+failed to scoring for Data(x=[219, 41], edge_index=[2, 7022], edge_attr=[7022, 5], pos=[219, 24, 3]) and None
+failed to scoring for Data(x=[219, 41], edge_index=[2, 7022], edge_attr=[7022, 5], pos=[219, 24, 3]) and None
+failed to scoring for Data(x=[219, 41], edge_index=[2, 7022], edge_attr=[7022, 5], pos=[219, 24, 3]) and None
+failed to scoring for Data(x=[219, 41], edge_index=[2, 7022], edge_attr=[7022, 5], pos=[219, 24, 3]) and None
+failed to scoring for Data(x=[219, 41], edge_index=[2, 7022], edge_attr=[7022, 5], pos=[219, 24, 3]) and None
+Finished... time_elapsed: 18 Secs
+sample_count: 2, /data01/pmorerio/ALLPDBs/00002_11GS/
+Processing : /data01/pmorerio/ALLPDBs/00002_11GS/pocket.pdb /data01/pmorerio/PDBbind_plants/00002_11GS/plants_poses.mol2
+Processing : /data01/pmorerio/ALLPDBs/00002_11GS/pocket.pdb /data01/pmorerio/PDBbind_plants/00002_11GS/plants_poses.sdf
+failed to scoring for Data(x=[235, 41], edge_index=[2, 7788], edge_attr=[7788, 5], pos=[235, 24, 3]) and None
+failed to scoring for Data(x=[235, 41], edge_index=[2, 7788], edge_attr=[7788, 5], pos=[235, 24, 3]) and None
+failed to scoring for Data(x=[235, 41], edge_index=[2, 7788], edge_attr=[7788, 5], pos=[235, 24, 3]) and None
+failed to scoring for Data(x=[235, 41], edge_index=[2, 7788], edge_attr=[7788, 5], pos=[235, 24, 3]) and None
+failed to scoring for Data(x=[235, 41], edge_index=[2, 7788], edge_attr=[7788, 5], pos=[235, 24, 3]) and None
+failed to scoring for Data(x=[235, 41], edge_index=[2, 7788], edge_attr=[7788, 5], pos=[235, 24, 3]) and None
+failed to scoring for Data(x=[235, 41], edge_index=[2, 7788], edge_attr=[7788, 5], pos=[235, 24, 3]) and None
+failed to scoring for Data(x=[235, 41], edge_index=[2, 7788], edge_attr=[7788, 5], pos=[235, 24, 3]) and None
+failed to scoring for Data(x=[235, 41], edge_index=[2, 7788], edge_attr=[7788, 5], pos=[235, 24, 3]) and None
+failed to scoring for Data(x=[235, 41], edge_index=[2, 7788], edge_attr=[7788, 5], pos=[235, 24, 3]) and None
+Finished... time_elapsed: 19 Secs
+sample_count: 3, /data01/pmorerio/ALLPDBs/00003_13GS/
+Processing : /data01/pmorerio/ALLPDBs/00003_13GS/pocket.pdb /data01/pmorerio/PDBbind_plants/00003_13GS/plants_poses.mol2
+failed to scoring for Data(x=[178, 41], edge_index=[2, 5110], edge_attr=[5110, 5], pos=[178, 24, 3]) and None
+failed to scoring for Data(x=[178, 41], edge_index=[2, 5110], edge_attr=[5110, 5], pos=[178, 24, 3]) and None
+failed to scoring for Data(x=[178, 41], edge_index=[2, 5110], edge_attr=[5110, 5], pos=[178, 24, 3]) and None
+failed to scoring for Data(x=[178, 41], edge_index=[2, 5110], edge_attr=[5110, 5], pos=[178, 24, 3]) and None
+failed to scoring for Data(x=[178, 41], edge_index=[2, 5110], edge_attr=[5110, 5], pos=[178, 24, 3]) and None
+failed to scoring for Data(x=[178, 41], edge_index=[2, 5110], edge_attr=[5110, 5], pos=[178, 24, 3]) and None
+failed to scoring for Data(x=[178, 41], edge_index=[2, 5110], edge_attr=[5110, 5], pos=[178, 24, 3]) and None
+failed to scoring for Data(x=[178, 41], edge_index=[2, 5110], edge_attr=[5110, 5], pos=[178, 24, 3]) and None
+failed to scoring for Data(x=[178, 41], edge_index=[2, 5110], edge_attr=[5110, 5], pos=[178, 24, 3]) and None
+failed to scoring for Data(x=[178, 41], edge_index=[2, 5110], edge_attr=[5110, 5], pos=[178, 24, 3]) and None
+Processing : /data01/pmorerio/ALLPDBs/00003_13GS/pocket.pdb /data01/pmorerio/PDBbind_plants/00003_13GS/plants_poses.sdf
+failed to scoring for Data(x=[178, 41], edge_index=[2, 5110], edge_attr=[5110, 5], pos=[178, 24, 3]) and None
+failed to scoring for Data(x=[178, 41], edge_index=[2, 5110], edge_attr=[5110, 5], pos=[178, 24, 3]) and None
+failed to scoring for Data(x=[178, 41], edge_index=[2, 5110], edge_attr=[5110, 5], pos=[178, 24, 3]) and None
+failed to scoring for Data(x=[178, 41], edge_index=[2, 5110], edge_attr=[5110, 5], pos=[178, 24, 3]) and None
+failed to scoring for Data(x=[178, 41], edge_index=[2, 5110], edge_attr=[5110, 5], pos=[178, 24, 3]) and None
+failed to scoring for Data(x=[178, 41], edge_index=[2, 5110], edge_attr=[5110, 5], pos=[178, 24, 3]) and None
+failed to scoring for Data(x=[178, 41], edge_index=[2, 5110], edge_attr=[5110, 5], pos=[178, 24, 3]) and None
+failed to scoring for Data(x=[178, 41], edge_index=[2, 5110], edge_attr=[5110, 5], pos=[178, 24, 3]) and None
+failed to scoring for Data(x=[178, 41], edge_index=[2, 5110], edge_attr=[5110, 5], pos=[178, 24, 3]) and None
+failed to scoring for Data(x=[178, 41], edge_index=[2, 5110], edge_attr=[5110, 5], pos=[178, 24, 3]) and None
+Finished... time_elapsed: 11 Secs
+sample_count: 4, /data01/pmorerio/ALLPDBs/00004_16PK/
+Processing : /data01/pmorerio/ALLPDBs/00004_16PK/pocket.pdb /data01/pmorerio/PDBbind_plants/00004_16PK/plants_poses.mol2
+failed to scoring for Data(x=[253, 41], edge_index=[2, 8832], edge_attr=[8832, 5], pos=[253, 24, 3]) and None
+failed to scoring for Data(x=[253, 41], edge_index=[2, 8832], edge_attr=[8832, 5], pos=[253, 24, 3]) and None
+failed to scoring for Data(x=[253, 41], edge_index=[2, 8832], edge_attr=[8832, 5], pos=[253, 24, 3]) and None
+failed to scoring for Data(x=[253, 41], edge_index=[2, 8832], edge_attr=[8832, 5], pos=[253, 24, 3]) and None
+failed to scoring for Data(x=[253, 41], edge_index=[2, 8832], edge_attr=[8832, 5], pos=[253, 24, 3]) and None
+failed to scoring for Data(x=[253, 41], edge_index=[2, 8832], edge_attr=[8832, 5], pos=[253, 24, 3]) and None
+failed to scoring for Data(x=[253, 41], edge_index=[2, 8832], edge_attr=[8832, 5], pos=[253, 24, 3]) and None
+failed to scoring for Data(x=[253, 41], edge_index=[2, 8832], edge_attr=[8832, 5], pos=[253, 24, 3]) and None
+failed to scoring for Data(x=[253, 41], edge_index=[2, 8832], edge_attr=[8832, 5], pos=[253, 24, 3]) and None
+failed to scoring for Data(x=[253, 41], edge_index=[2, 8832], edge_attr=[8832, 5], pos=[253, 24, 3]) and None
+Processing : /data01/pmorerio/ALLPDBs/00004_16PK/pocket.pdb /data01/pmorerio/PDBbind_plants/00004_16PK/plants_poses.sdf
+Finished... time_elapsed: 21 Secs
+sample_count: 5, /data01/pmorerio/ALLPDBs/00005_184L/
+Processing : /data01/pmorerio/ALLPDBs/00005_184L/pocket.pdb /data01/pmorerio/PDBbind_plants/00005_184L/plants_poses.mol2
+Processing : /data01/pmorerio/ALLPDBs/00005_184L/pocket.pdb /data01/pmorerio/PDBbind_plants/00005_184L/plants_poses.sdf
+Finished... time_elapsed: 15 Secs
+sample_count: 6, /data01/pmorerio/ALLPDBs/00006_185L/
+Processing : /data01/pmorerio/ALLPDBs/00006_185L/pocket.pdb /data01/pmorerio/PDBbind_plants/00006_185L/plants_poses.mol2
+failed to scoring for Data(x=[116, 41], edge_index=[2, 3584], edge_attr=[3584, 5], pos=[116, 24, 3]) and None
+failed to scoring for Data(x=[116, 41], edge_index=[2, 3584], edge_attr=[3584, 5], pos=[116, 24, 3]) and None
+failed to scoring for Data(x=[116, 41], edge_index=[2, 3584], edge_attr=[3584, 5], pos=[116, 24, 3]) and None
+failed to scoring for Data(x=[116, 41], edge_index=[2, 3584], edge_attr=[3584, 5], pos=[116, 24, 3]) and None
+failed to scoring for Data(x=[116, 41], edge_index=[2, 3584], edge_attr=[3584, 5], pos=[116, 24, 3]) and None
+failed to scoring for Data(x=[116, 41], edge_index=[2, 3584], edge_attr=[3584, 5], pos=[116, 24, 3]) and None
+failed to scoring for Data(x=[116, 41], edge_index=[2, 3584], edge_attr=[3584, 5], pos=[116, 24, 3]) and None
+failed to scoring for Data(x=[116, 41], edge_index=[2, 3584], edge_attr=[3584, 5], pos=[116, 24, 3]) and None
+failed to scoring for Data(x=[116, 41], edge_index=[2, 3584], edge_attr=[3584, 5], pos=[116, 24, 3]) and None
+failed to scoring for Data(x=[116, 41], edge_index=[2, 3584], edge_attr=[3584, 5], pos=[116, 24, 3]) and None
+Processing : /data01/pmorerio/ALLPDBs/00006_185L/pocket.pdb /data01/pmorerio/PDBbind_plants/00006_185L/plants_poses.sdf
+Finished... time_elapsed: 11 Secs
+sample_count: 7, /data01/pmorerio/ALLPDBs/00007_186L/
+Processing : /data01/pmorerio/ALLPDBs/00007_186L/pocket.pdb /data01/pmorerio/PDBbind_plants/00007_186L/plants_poses.mol2
+Processing : /data01/pmorerio/ALLPDBs/00007_186L/pocket.pdb /data01/pmorerio/PDBbind_plants/00007_186L/plants_poses.sdf
+Finished... time_elapsed: 15 Secs
+sample_count: 8, /data01/pmorerio/ALLPDBs/00008_187L/
+Processing : /data01/pmorerio/ALLPDBs/00008_187L/pocket.pdb /data01/pmorerio/PDBbind_plants/00008_187L/plants_poses.mol2
+Processing : /data01/pmorerio/ALLPDBs/00008_187L/pocket.pdb /data01/pmorerio/PDBbind_plants/00008_187L/plants_poses.sdf
+Finished... time_elapsed: 15 Secs
+sample_count: 9, /data01/pmorerio/ALLPDBs/00009_188L/
+Processing : /data01/pmorerio/ALLPDBs/00009_188L/pocket.pdb /data01/pmorerio/PDBbind_plants/00009_188L/plants_poses.mol2
+Processing : /data01/pmorerio/ALLPDBs/00009_188L/pocket.pdb /data01/pmorerio/PDBbind_plants/00009_188L/plants_poses.sdf
+Finished... time_elapsed: 15 Secs
+sample_count: 10, /data01/pmorerio/ALLPDBs/00010_1A07/
+Processing : /data01/pmorerio/ALLPDBs/00010_1A07/pocket.pdb /data01/pmorerio/PDBbind_plants/00010_1A07/plants_poses.mol2
+Processing : /data01/pmorerio/ALLPDBs/00010_1A07/pocket.pdb /data01/pmorerio/PDBbind_plants/00010_1A07/plants_poses.sdf
+failed to scoring for Data(x=[97, 41], edge_index=[2, 2856], edge_attr=[2856, 5], pos=[97, 24, 3]) and None
+failed to scoring for Data(x=[97, 41], edge_index=[2, 2856], edge_attr=[2856, 5], pos=[97, 24, 3]) and None
+failed to scoring for Data(x=[97, 41], edge_index=[2, 2856], edge_attr=[2856, 5], pos=[97, 24, 3]) and None
+failed to scoring for Data(x=[97, 41], edge_index=[2, 2856], edge_attr=[2856, 5], pos=[97, 24, 3]) and None
+failed to scoring for Data(x=[97, 41], edge_index=[2, 2856], edge_attr=[2856, 5], pos=[97, 24, 3]) and None
+failed to scoring for Data(x=[97, 41], edge_index=[2, 2856], edge_attr=[2856, 5], pos=[97, 24, 3]) and None
+failed to scoring for Data(x=[97, 41], edge_index=[2, 2856], edge_attr=[2856, 5], pos=[97, 24, 3]) and None
+failed to scoring for Data(x=[97, 41], edge_index=[2, 2856], edge_attr=[2856, 5], pos=[97, 24, 3]) and None
+failed to scoring for Data(x=[97, 41], edge_index=[2, 2856], edge_attr=[2856, 5], pos=[97, 24, 3]) and None
+failed to scoring for Data(x=[97, 41], edge_index=[2, 2856], edge_attr=[2856, 5], pos=[97, 24, 3]) and None
+Finished... time_elapsed: 11 Secs
+sample_count: 11, /data01/pmorerio/ALLPDBs/00011_1A08/
+Processing : /data01/pmorerio/ALLPDBs/00011_1A08/pocket.pdb /data01/pmorerio/PDBbind_plants/00011_1A08/plants_poses.mol2
+Processing : /data01/pmorerio/ALLPDBs/00011_1A08/pocket.pdb /data01/pmorerio/PDBbind_plants/00011_1A08/plants_poses.sdf
+failed to scoring for Data(x=[92, 41], edge_index=[2, 2634], edge_attr=[2634, 5], pos=[92, 24, 3]) and None
+failed to scoring for Data(x=[92, 41], edge_index=[2, 2634], edge_attr=[2634, 5], pos=[92, 24, 3]) and None
+failed to scoring for Data(x=[92, 41], edge_index=[2, 2634], edge_attr=[2634, 5], pos=[92, 24, 3]) and None
+failed to scoring for Data(x=[92, 41], edge_index=[2, 2634], edge_attr=[2634, 5], pos=[92, 24, 3]) and None
+failed to scoring for Data(x=[92, 41], edge_index=[2, 2634], edge_attr=[2634, 5], pos=[92, 24, 3]) and None
+failed to scoring for Data(x=[92, 41], edge_index=[2, 2634], edge_attr=[2634, 5], pos=[92, 24, 3]) and None
+failed to scoring for Data(x=[92, 41], edge_index=[2, 2634], edge_attr=[2634, 5], pos=[92, 24, 3]) and None
+failed to scoring for Data(x=[92, 41], edge_index=[2, 2634], edge_attr=[2634, 5], pos=[92, 24, 3]) and None
+failed to scoring for Data(x=[92, 41], edge_index=[2, 2634], edge_attr=[2634, 5], pos=[92, 24, 3]) and None
+failed to scoring for Data(x=[92, 41], edge_index=[2, 2634], edge_attr=[2634, 5], pos=[92, 24, 3]) and None
+Finished... time_elapsed: 10 Secs
+sample_count: 12, /data01/pmorerio/ALLPDBs/00012_1A09/
+Processing : /data01/pmorerio/ALLPDBs/00012_1A09/pocket.pdb /data01/pmorerio/PDBbind_plants/00012_1A09/plants_poses.mol2
+Processing : /data01/pmorerio/ALLPDBs/00012_1A09/pocket.pdb /data01/pmorerio/PDBbind_plants/00012_1A09/plants_poses.sdf
+failed to scoring for Data(x=[154, 41], edge_index=[2, 4652], edge_attr=[4652, 5], pos=[154, 24, 3]) and None
+failed to scoring for Data(x=[154, 41], edge_index=[2, 4652], edge_attr=[4652, 5], pos=[154, 24, 3]) and None
+failed to scoring for Data(x=[154, 41], edge_index=[2, 4652], edge_attr=[4652, 5], pos=[154, 24, 3]) and None
+failed to scoring for Data(x=[154, 41], edge_index=[2, 4652], edge_attr=[4652, 5], pos=[154, 24, 3]) and None
+failed to scoring for Data(x=[154, 41], edge_index=[2, 4652], edge_attr=[4652, 5], pos=[154, 24, 3]) and None
+failed to scoring for Data(x=[154, 41], edge_index=[2, 4652], edge_attr=[4652, 5], pos=[154, 24, 3]) and None
+failed to scoring for Data(x=[154, 41], edge_index=[2, 4652], edge_attr=[4652, 5], pos=[154, 24, 3]) and None
+failed to scoring for Data(x=[154, 41], edge_index=[2, 4652], edge_attr=[4652, 5], pos=[154, 24, 3]) and None
+failed to scoring for Data(x=[154, 41], edge_index=[2, 4652], edge_attr=[4652, 5], pos=[154, 24, 3]) and None
+failed to scoring for Data(x=[154, 41], edge_index=[2, 4652], edge_attr=[4652, 5], pos=[154, 24, 3]) and None
+Finished... time_elapsed: 13 Secs
+sample_count: 13, /data01/pmorerio/ALLPDBs/00013_1A0Q/
+Processing : /data01/pmorerio/ALLPDBs/00013_1A0Q/pocket.pdb /data01/pmorerio/PDBbind_plants/00013_1A0Q/plants_poses.mol2
+Processing : /data01/pmorerio/ALLPDBs/00013_1A0Q/pocket.pdb /data01/pmorerio/PDBbind_plants/00013_1A0Q/plants_poses.sdf
+failed to scoring for Data(x=[181, 41], edge_index=[2, 6088], edge_attr=[6088, 5], pos=[181, 24, 3]) and None
+failed to scoring for Data(x=[181, 41], edge_index=[2, 6088], edge_attr=[6088, 5], pos=[181, 24, 3]) and None
+failed to scoring for Data(x=[181, 41], edge_index=[2, 6088], edge_attr=[6088, 5], pos=[181, 24, 3]) and None
+failed to scoring for Data(x=[181, 41], edge_index=[2, 6088], edge_attr=[6088, 5], pos=[181, 24, 3]) and None
+failed to scoring for Data(x=[181, 41], edge_index=[2, 6088], edge_attr=[6088, 5], pos=[181, 24, 3]) and None
+failed to scoring for Data(x=[181, 41], edge_index=[2, 6088], edge_attr=[6088, 5], pos=[181, 24, 3]) and None
+failed to scoring for Data(x=[181, 41], edge_index=[2, 6088], edge_attr=[6088, 5], pos=[181, 24, 3]) and None
+failed to scoring for Data(x=[181, 41], edge_index=[2, 6088], edge_attr=[6088, 5], pos=[181, 24, 3]) and None
+failed to scoring for Data(x=[181, 41], edge_index=[2, 6088], edge_attr=[6088, 5], pos=[181, 24, 3]) and None
+failed to scoring for Data(x=[181, 41], edge_index=[2, 6088], edge_attr=[6088, 5], pos=[181, 24, 3]) and None
+Finished... time_elapsed: 16 Secs
+sample_count: 14, /data01/pmorerio/ALLPDBs/00014_1A0T/
+Processing : /data01/pmorerio/ALLPDBs/00014_1A0T/pocket.pdb /data01/pmorerio/PDBbind_plants/00014_1A0T/plants_poses.mol2
+Processing : /data01/pmorerio/ALLPDBs/00014_1A0T/pocket.pdb /data01/pmorerio/PDBbind_plants/00014_1A0T/plants_poses.sdf
+Finished... time_elapsed: 30 Secs
+sample_count: 15, /data01/pmorerio/ALLPDBs/00015_1A1B/
+Processing : /data01/pmorerio/ALLPDBs/00015_1A1B/pocket.pdb /data01/pmorerio/PDBbind_plants/00015_1A1B/plants_poses.mol2
+Processing : /data01/pmorerio/ALLPDBs/00015_1A1B/pocket.pdb /data01/pmorerio/PDBbind_plants/00015_1A1B/plants_poses.sdf
+failed to scoring for Data(x=[108, 41], edge_index=[2, 3076], edge_attr=[3076, 5], pos=[108, 24, 3]) and None
+failed to scoring for Data(x=[108, 41], edge_index=[2, 3076], edge_attr=[3076, 5], pos=[108, 24, 3]) and None
+failed to scoring for Data(x=[108, 41], edge_index=[2, 3076], edge_attr=[3076, 5], pos=[108, 24, 3]) and None
+failed to scoring for Data(x=[108, 41], edge_index=[2, 3076], edge_attr=[3076, 5], pos=[108, 24, 3]) and None
+failed to scoring for Data(x=[108, 41], edge_index=[2, 3076], edge_attr=[3076, 5], pos=[108, 24, 3]) and None
+failed to scoring for Data(x=[108, 41], edge_index=[2, 3076], edge_attr=[3076, 5], pos=[108, 24, 3]) and None
+failed to scoring for Data(x=[108, 41], edge_index=[2, 3076], edge_attr=[3076, 5], pos=[108, 24, 3]) and None
+failed to scoring for Data(x=[108, 41], edge_index=[2, 3076], edge_attr=[3076, 5], pos=[108, 24, 3]) and None
+failed to scoring for Data(x=[108, 41], edge_index=[2, 3076], edge_attr=[3076, 5], pos=[108, 24, 3]) and None
+failed to scoring for Data(x=[108, 41], edge_index=[2, 3076], edge_attr=[3076, 5], pos=[108, 24, 3]) and None
+Finished... time_elapsed: 10 Secs
+sample_count: 16, /data01/pmorerio/ALLPDBs/00016_1A1C/
+Processing : /data01/pmorerio/ALLPDBs/00016_1A1C/pocket.pdb /data01/pmorerio/PDBbind_plants/00016_1A1C/plants_poses.mol2
+Processing : /data01/pmorerio/ALLPDBs/00016_1A1C/pocket.pdb /data01/pmorerio/PDBbind_plants/00016_1A1C/plants_poses.sdf
+failed to scoring for Data(x=[108, 41], edge_index=[2, 3076], edge_attr=[3076, 5], pos=[108, 24, 3]) and None
+failed to scoring for Data(x=[108, 41], edge_index=[2, 3076], edge_attr=[3076, 5], pos=[108, 24, 3]) and None
+failed to scoring for Data(x=[108, 41], edge_index=[2, 3076], edge_attr=[3076, 5], pos=[108, 24, 3]) and None
+failed to scoring for Data(x=[108, 41], edge_index=[2, 3076], edge_attr=[3076, 5], pos=[108, 24, 3]) and None
+failed to scoring for Data(x=[108, 41], edge_index=[2, 3076], edge_attr=[3076, 5], pos=[108, 24, 3]) and None
+failed to scoring for Data(x=[108, 41], edge_index=[2, 3076], edge_attr=[3076, 5], pos=[108, 24, 3]) and None
+failed to scoring for Data(x=[108, 41], edge_index=[2, 3076], edge_attr=[3076, 5], pos=[108, 24, 3]) and None
+failed to scoring for Data(x=[108, 41], edge_index=[2, 3076], edge_attr=[3076, 5], pos=[108, 24, 3]) and None
+failed to scoring for Data(x=[108, 41], edge_index=[2, 3076], edge_attr=[3076, 5], pos=[108, 24, 3]) and None
+failed to scoring for Data(x=[108, 41], edge_index=[2, 3076], edge_attr=[3076, 5], pos=[108, 24, 3]) and None
+Finished... time_elapsed: 11 Secs
+sample_count: 17, /data01/pmorerio/ALLPDBs/00018_1A28/
+Processing : /data01/pmorerio/ALLPDBs/00018_1A28/pocket.pdb /data01/pmorerio/PDBbind_plants/00018_1A28/plants_poses.mol2
